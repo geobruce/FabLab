@@ -43,21 +43,15 @@ Login is required for this one.
 
 #### Carbide create
 
-## SVG / DXF Generators
-gears
-boxes
+#### f-engrave
+Could be used to generate wooden inlays or do v-carvings.
+![](images/f-engrave.jpg)
+[Site](https://www.scorchworks.com/Fengrave/fengrave.html)
 
 
-f-engrave
 
+### to be looked at
 http://cnc-toolkit.com/
-
-
-GCODE SENDERS
-https://github.com/winder/Universal-G-Code-Sender
-https://github.com/Denvi/Candle
-bCNC
-
 https://www.reddit.com/r/CNC/comments/aizatc/free_and_open_source_camcnc_software/
 
 https://cnc.js.org/
