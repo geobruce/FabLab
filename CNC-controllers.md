@@ -1,4 +1,4 @@
-## CAM Tools to generate G-Code
+## CNC Controllers
 ### GCODE SENDERS
 https://github.com/winder/Universal-G-Code-Sender
 https://github.com/Denvi/Candle
@@ -8,3 +8,8 @@ https://www.reddit.com/r/CNC/comments/aizatc/free_and_open_source_camcnc_softwar
 
 https://cnc.js.org/
 
+openbuilds control
+
+chillpepr
+
+Linux CNC

@@ -1,7 +1,8 @@
 # FabLab
 ## Intro
-In this repository you'll find a collection of tools and software that can be used for Maker spaces and FabLabs.
+In this repository you'll find a collection of tools and software that can be used in Maker spaces and FabLabs.
 
+The focus is mainly on open source and free software that is Linux compatible.
 
 ## CAM Tools to generate G-Code
 This tools can be used to go from a digital design to toolpaths, GCODE, NC files to control your machine.
