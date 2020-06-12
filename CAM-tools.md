@@ -1,4 +1,5 @@
 ## CAM Tools to generate G-Code
+[TOC]
 ### Browser based
 #### jscut
 2D :heavy_check_mark:, 2.5D :heavy_check_mark:, 3D :x:
@@ -48,21 +49,26 @@ Could be used to generate wooden inlays or do v-carvings.
 ![](images/f-engrave.jpg)
 [Site](https://www.scorchworks.com/Fengrave/fengrave.html)
 
+#### VisuCAMTest 
+[Site](http://nraynaud.github.io/webgcode/webapp/visucamTest.html#/)
 
+#### FreeMill
+Should work with Wine
+[Site](https://mecsoft.com/free-cad-cam/)
+![](images/freemill.jpg)
+
+#### GCAM
+[Site](https://github.com/blinkenlight/GCAM/wiki)
+![](images/gcam-se-1.png)
 
 ### to be looked at
 http://cnc-toolkit.com/
 https://www.reddit.com/r/CNC/comments/aizatc/free_and_open_source_camcnc_software/
 
-https://cnc.js.org/
 
-jscad
-cadquery
 makercad...?
 
 
-GCODE simulators
-camotics
 
 topografic
 

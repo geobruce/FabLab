@@ -14,6 +14,10 @@ When you don't have the time or expertise to draw something your self you can us
 
 [Go to list](Generators.md)
 
+## Nesting software
+Combine multiple designs nested tightly together.
+
+[Go to list](Nesting-tools.md)
 
 ## CAM Tools
 This tools can be used to go from a digital design to toolpaths, GCODE, NC files to control your machine.
