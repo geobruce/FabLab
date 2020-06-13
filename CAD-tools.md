@@ -34,6 +34,12 @@
 [Repository](https://sourceforge.net/projects/brlcad/files/)
 ![](images/brl-cad.jpg)
 
+#### NoteCAD
+[Site](http://notecad.xyz/)
+[Github](https://github.com/NoteCAD/NoteCAD)
+![](images/notecad.jpg)
+
+
 #### Script based
 ##### CadQuery
 [Github](https://github.com/dcowden/cadquery)
