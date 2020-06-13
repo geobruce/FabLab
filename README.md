@@ -4,6 +4,9 @@ In this repository you'll find a collection of tools and software that can be us
 
 The focus is mainly on open source and free software that is Linux compatible.
 
+
+[TOC]
+
 ## CAD Tools
 Tools you could use to make your digital designs with.
 
