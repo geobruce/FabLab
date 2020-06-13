@@ -29,38 +29,43 @@
 [Github](https://github.com/solvespace/solvespace)
 ![](images/Solvespace_workspace.jpg)
 
-#### BRL-CAD
+##### BRL-CAD
 [Site](https://brlcad.org/)
 [Repository](https://sourceforge.net/projects/brlcad/files/)
 ![](images/brl-cad.jpg)
 
-#### NoteCAD
+##### NoteCAD
 [Site](http://notecad.xyz/)
 [Github](https://github.com/NoteCAD/NoteCAD)
 ![](images/notecad.jpg)
 
-#### SteamCAD
+##### SteamCAD
 [Github](https://github.com/oskardolch/SteamCAD)
 ![](images/steamcad.svg)
 
-#### Antimony
+##### Antimony
 [Site](http://www.mattkeeter.com/projects/antimony/3/)
 [Github](https://github.com/mkeeter/antimony)
 ![](images/antimony-screenshot.png)
 
-#### gCAD3D
+##### gCAD3D
 [Site](http://www.gcad3d.org/)
 ![](images/gCAD3D_Renault1.jpg)
 
-#### LibreDWG
+##### LibreDWG
 [Github](https://github.com/LibreDWG/libredwg)
 ![](images/libredwg.png)
 
-#### LeoCAD
+##### LeoCAD
 A CAD program for creating virtual LEGO models.
 [Site](https://www.leocad.org/)
 [Github](https://github.com/leozide/leocad)
 ![](images/leocad.png)
+
+##### Wings3D
+[Site](http://www.wings3d.com/)
+[Github](https://github.com/dgud/wings)
+![](images/wings3d.png)
 
 #### Script based
 ##### CadQuery
@@ -85,6 +90,11 @@ A CAD program for creating virtual LEGO models.
 [Site](https://maker.js.org/)
 [Github](https://github.com/Microsoft/maker.js)
 ![](images/maker.js.gif)
+
+##### ImplicitCAD
+[Site](http://www.implicitcad.org/)
+[Github](https://github.com/colah/ImplicitCAD)
+![](images/implicitcad.png)
 
 ### Proprietary Software
 #### Online
