@@ -24,6 +24,16 @@
 [Site](https://www.blender.org/)
 ![](images/blender.jpeg)
 
+##### Solvespace
+[Site](http://solvespace.com/index.pl)
+[Github](https://github.com/solvespace/solvespace)
+![](images/Solvespace_workspace.jpg)
+
+#### BRL-CAD
+[Site](https://brlcad.org/)
+[Repository](https://sourceforge.net/projects/brlcad/files/)
+![](images/brl-cad.jpg)
+
 #### Script based
 ##### CadQuery
 [Github](https://github.com/dcowden/cadquery)

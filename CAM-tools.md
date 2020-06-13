@@ -5,12 +5,14 @@
 2D :heavy_check_mark:, 2.5D :heavy_check_mark:, 3D :x:
 [jscut site](http://jscut.org/)
 [jscut Github repository](https://github.com/tbfleming/jscut)
+![](images/jscut.jpg)
 
 #### Kiri:Moto
 Kiri:Motor is an all around tool you can use for 3D printing, CNC toolpath generation and Laser cutting & stacking.
 [Site](https://grid.space/kiri/)
 [Github repository](https://github.com/GridSpace/grid-apps)
 [tutorials](https://www.youtube.com/c/gridspace)
+![](images/kirimoto.png)
 
 #### LaserWeb / CNCWeb
 [Site](https://laserweb.yurl.ch/)
@@ -61,9 +63,15 @@ Should work with Wine
 [Site](https://github.com/blinkenlight/GCAM/wiki)
 ![](images/gcam-se-1.png)
 
+#### dxf2gcode
+[Site](https://sourceforge.net/projects/dxf2gcode/)
+![](images/dxf2gcode.png)
+
+
 ### to be looked at
 http://cnc-toolkit.com/
 https://www.reddit.com/r/CNC/comments/aizatc/free_and_open_source_camcnc_software/
+https://github.com/openscad/openscad/issues/2299
 
 
 makercad...?
