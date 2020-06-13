@@ -96,6 +96,10 @@ A CAD program for creating virtual LEGO models.
 [Github](https://github.com/colah/ImplicitCAD)
 ![](images/implicitcad.png)
 
+#### SDFX
+[GitHub](https://github.com/deadsy/sdfx)
+![](images/SDFX.png)
+
 ### Proprietary Software
 #### Online
 ##### Onshape
