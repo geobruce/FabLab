@@ -67,6 +67,10 @@ A CAD program for creating virtual LEGO models.
 [Github](https://github.com/dgud/wings)
 ![](images/wings3d.png)
 
+##### Sculptris
+[Site](https://pixologic.com/sculptris/)
+![](images/Sculptris-software-screenshot.jpg)
+
 #### Script based
 ##### CadQuery
 [Github](https://github.com/dcowden/cadquery)
