@@ -96,9 +96,18 @@ A CAD program for creating virtual LEGO models.
 [Github](https://github.com/colah/ImplicitCAD)
 ![](images/implicitcad.png)
 
-#### SDFX
+##### SDFX
 [GitHub](https://github.com/deadsy/sdfx)
 ![](images/SDFX.png)
+
+##### RapCAD
+[Github](https://github.com/GilesBathgate/RapCAD)
+![](images/RapCAD.png)
+
+##### Plasm
+[Site](http://www.plasm.net/)
+[Github](https://github.com/cvdlab/)
+![](images/Plasm.png)
 
 ### Proprietary Software
 #### Online
@@ -108,3 +117,5 @@ A CAD program for creating virtual LEGO models.
 
 ##### Tinkercad
 
+# Todo
+https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software
