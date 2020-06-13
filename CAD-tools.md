@@ -48,6 +48,14 @@
 [Github](https://github.com/mkeeter/antimony)
 ![](images/antimony-screenshot.png)
 
+#### gCAD3D
+[Site](http://www.gcad3d.org/)
+![](images/gCAD3D_Renault1.jpg)
+
+#### LibreDWG
+[Github](https://github.com/LibreDWG/libredwg)
+![](images/libredwg.png)
+
 #### Script based
 ##### CadQuery
 [Github](https://github.com/dcowden/cadquery)
