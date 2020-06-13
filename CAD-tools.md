@@ -56,6 +56,12 @@
 [Github](https://github.com/LibreDWG/libredwg)
 ![](images/libredwg.png)
 
+#### LeoCAD
+A CAD program for creating virtual LEGO models.
+[Site](https://www.leocad.org/)
+[Github](https://github.com/leozide/leocad)
+![](images/leocad.png)
+
 #### Script based
 ##### CadQuery
 [Github](https://github.com/dcowden/cadquery)
