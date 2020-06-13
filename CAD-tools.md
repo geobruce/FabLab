@@ -39,6 +39,14 @@
 [Github](https://github.com/NoteCAD/NoteCAD)
 ![](images/notecad.jpg)
 
+#### SteamCAD
+[Github](https://github.com/oskardolch/SteamCAD)
+![](images/steamcad.svg)
+
+#### Antimony
+[Site](http://www.mattkeeter.com/projects/antimony/3/)
+[Github](https://github.com/mkeeter/antimony)
+![](images/antimony-screenshot.png)
 
 #### Script based
 ##### CadQuery
