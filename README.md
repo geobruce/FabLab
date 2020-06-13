@@ -4,6 +4,7 @@ In this repository you'll find a collection of tools and software that can be us
 
 The focus is mainly on open source and free software that is Linux compatible.
 
+This is a work under progress. Feel free to add your suggestions.
 
 [TOC]
 

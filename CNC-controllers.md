@@ -16,3 +16,8 @@ chillpepr
 ### Linux CNC
 
 ### Octoprint
+
+
+https://github.com/ryannining/karyacnc
+
+https://reprap.org/wiki/List_of_Firmware
