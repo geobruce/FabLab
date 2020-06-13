@@ -71,6 +71,8 @@ A CAD program for creating virtual LEGO models.
 [Site](https://pixologic.com/sculptris/)
 ![](images/Sculptris-software-screenshot.jpg)
 
+
+
 #### Script based
 ##### CadQuery
 [Github](https://github.com/dcowden/cadquery)
@@ -112,6 +114,10 @@ A CAD program for creating virtual LEGO models.
 [Site](http://www.plasm.net/)
 [Github](https://github.com/cvdlab/)
 ![](images/Plasm.png)
+
+#### EDA PCB Design software
+[Go to the electronics page](Electronics.md)
+
 
 ### Proprietary Software
 #### Online

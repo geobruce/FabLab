@@ -9,6 +9,7 @@ The focus is mainly on open source and free software that is Linux compatible.
 
 ## CAD Tools
 Tools you could use to make your digital designs with.
+Also tools to design PCB's with are added in this list.
 
 [Go to the list](CAD-tools.md)
 
@@ -22,10 +23,16 @@ Combine multiple designs nested tightly together.
 
 [Go to list](Nesting-tools.md)
 
-## CAM Tools
-This tools can be used to go from a digital design to toolpaths, GCODE, NC files to control your machine.
+## CNC CAM Tools
+This tools can be used to go from a digital design to toolpaths, GCODE, NC files to control your CNC machine.
 
-[Go to list](CAM-tools.md)
+[Go to list](CAM-tools-CNC.md)
+
+## 3D printer CAM Tools / slicers
+This tools can be used to go from a digital design to toolpaths, GCODE, NC files to control your CNC machine.
+
+[Go to list](CAM-tools-3D.md)
+
 
 ## G-CODE simulators
 Before you send your machine code you might want to check for errors. You can do this with a simulator.
@@ -38,3 +45,12 @@ This tools can be used to control your CNC machine set your origin, calibrate yo
 
 [Go to list](CNC-controllers.md)
 
+## Electronics
+Tools for electronics simulation and design.
+
+[Go to the list]()
+
+## To be added
+- https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
+- https://www.reddit.com/r/coolguides/comments/9irkqd/the_best_completely_free_software_alternatives/e6nu8jg/
+- https://wiki.shapeoko.com/index.php/Programming  
