@@ -51,7 +51,12 @@ Tools for electronics simulation and design.
 
 [Go to the list](Electronics.md)
 
+## Pick and place
+Tools for pick and place CNC machines
+
+[Go to the list](PNP-tools.md)
+
 ## To be added
 - https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
 - https://www.reddit.com/r/coolguides/comments/9irkqd/the_best_completely_free_software_alternatives/e6nu8jg/
-- https://wiki.shapeoko.com/index.php/Programming  
+- https://wiki.shapeoko.com/index.php/Programming
