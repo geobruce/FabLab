@@ -49,7 +49,7 @@ This tools can be used to control your CNC machine set your origin, calibrate yo
 ## Electronics
 Tools for electronics simulation and design.
 
-[Go to the list]()
+[Go to the list](Electronics.md)
 
 ## To be added
 - https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
