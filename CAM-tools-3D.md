@@ -12,12 +12,19 @@ Kiri:Motor is an all around tool you can use for 3D printing, CNC toolpath gener
 
 ### Application based
 #### Slic3r
+[Site](https://slic3r.org/)
+[Github repository](https://github.com/slic3r/Slic3r)
 
 #### Prusa slicer
+[Site](https://www.prusa3d.com/prusaslicer/)
+[Github repository](https://github.com/prusa3d/PrusaSlicer)
 
 #### Octoprint
+[Site](https://octoprint.org/)
+[Github repository](https://github.com/OctoPrint/OctoPrint)
 
 #### Kissslicer
+[Site](http://www.kisslicer.com/)
 
 #### icesl
-https://icesl.loria.fr/
+[Site](https://icesl.loria.fr/)
