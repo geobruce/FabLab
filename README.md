@@ -51,6 +51,11 @@ Tools for electronics simulation and design.
 
 [Go to the list]()
 
+## File sharing sites
+Site with free and open source design files.
+
+[Go to the list]()
+
 ## To be added
 - https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
 - https://www.reddit.com/r/coolguides/comments/9irkqd/the_best_completely_free_software_alternatives/e6nu8jg/

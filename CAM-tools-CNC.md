@@ -14,6 +14,11 @@ Kiri:Motor is an all around tool you can use for 3D printing, CNC toolpath gener
 [tutorials](https://www.youtube.com/c/gridspace)
 ![](images/kirimoto.png)
 
+#### CAMLab
+Kiri:Moto powerd CAM software.
+[Site]()
+![](images/CAMLab.png)
+
 #### LaserWeb / CNCWeb
 [Site](https://laserweb.yurl.ch/)
 [Demo](https://laserweb.github.io/LaserWeb4/)
