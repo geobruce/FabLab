@@ -59,7 +59,7 @@ Tools for pick and place CNC machines
 ## File sharing sites
 Site with free and open source design files.
 
-[Go to the list]()
+[Go to the list](Sharing.md)
 
 ## To be added
 - https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
