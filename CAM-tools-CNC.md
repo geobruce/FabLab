@@ -11,6 +11,7 @@
 Kiri:Motor is an all around tool you can use for 3D printing, CNC toolpath generation and Laser cutting & stacking.
 [Site](https://grid.space/kiri/)
 [Github repository](https://github.com/GridSpace/grid-apps)
+[CAM explanation video](https://www.youtube.com/watch?v=KDhMujKX1QQ)
 [tutorials](https://www.youtube.com/c/gridspace)
 ![](images/kirimoto.png)
 
