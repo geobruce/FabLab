@@ -71,6 +71,8 @@ A CAD program for creating virtual LEGO models.
 [Site](https://pixologic.com/sculptris/)
 ![](images/Sculptris-software-screenshot.jpg)
 
+##### SketchChair
+[Site](http://www.sketchchair.cc/)
 
 
 #### Script based
