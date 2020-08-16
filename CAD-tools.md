@@ -90,6 +90,9 @@ A CAD program for creating virtual LEGO models.
 [Site](https://openjscad.org/)
 ![](images/openjscad.jpeg)
 
+##### OpenPySCAD
+[Site](https://pypi.org/project/openpyscad/)
+
 ##### Bowlerstudio
 [Site](https://commonwealthrobotics.com/)
 ![](images/Bowlerstudio.png)

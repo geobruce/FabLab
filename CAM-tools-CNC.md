@@ -26,13 +26,17 @@ Kiri:Moto powerd CAM software.
 ![Laserweb Image](images/LaserWebDec2016.PNG)
 
 #### OpenBuilds CAM
+Supports: CNC, Plasma, Laser, Vinyl cutter.
 [Site](https://cam.openbuilds.com)
+![](images/openbuildscam.jpg)
 
 #### Easel
 Login is required for this one.
 [Site](https://easel.inventables.com/users/sign_in)
 
 https://github.com/ryannining/karyacnc
+
+
 
 ### Application based
 
