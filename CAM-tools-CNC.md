@@ -65,6 +65,7 @@ Could be used to generate wooden inlays or do v-carvings.
 
 #### VisuCAMTest 
 [Site](http://nraynaud.github.io/webgcode/webapp/visucamTest.html#/)
+![](images/visucam.png)
 
 #### FreeMill
 Should work with Wine
