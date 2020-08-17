@@ -115,9 +115,17 @@ A CAD program for creating virtual LEGO models.
 [Site](https://www.floodeditor.com/app.html)
 ![](images/flood.png)
 
+##### C-CSG
+[Site](http://c-csg.com/)
+![](images/c-csg.png)
+
 ##### VRL.Studio
 [Site](https://vrl-studio.mihosoft.eu/index.html#prettyPhoto)
 ![](images/vrlstudio.png)
+
+##### Beetleblocks
+[Site](http://beetleblocks.com/)
+![](images/Beetleblocks_bsp.png)
 
 ##### SDFX
 [GitHub](https://github.com/deadsy/sdfx)
