@@ -88,7 +88,9 @@ Should work with Wine
 For milling PCB's
 [Site](http://flatcam.org/)
 
+
 ### to be looked at
+http://wiki.linuxcnc.org/cgi-bin/wiki.pl?Simple_LinuxCNC_G-Code_Generators#Text_Engraving_Software
 http://cnc-toolkit.com/
 https://www.reddit.com/r/CNC/comments/aizatc/free_and_open_source_camcnc_software/
 https://github.com/openscad/openscad/issues/2299
