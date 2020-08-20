@@ -3,6 +3,11 @@
 ### Gear generators
 * [geargenetator.com](https://geargenerator.com/)
 ### Box generators
+#### Boxes.py
+This site has a lot of generators for: (flex) Boxes, Trays, Drawers, Shelves, Hole patterns, Misc
+[Site](https://www.festi.info/boxes.py/)
+[Github](https://github.com/florianfesti/boxes)
+![](images/boxes.py.png)
 
 ### Tolliver 
 Is a hole generator to find the right fit and tolerance for your machine.
