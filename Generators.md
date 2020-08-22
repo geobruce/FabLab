@@ -1,7 +1,7 @@
 ## SVG / DXF Generators
 [TOC]
 ### Gear generators
-* [geargenetator.com](https://geargenerator.com/)
+* [geargenerator.com](https://geargenerator.com/)
 ### Box generators
 #### Boxes.py
 This site has a lot of generators for: (flex) Boxes, Trays, Drawers, Shelves, Hole patterns, Misc
