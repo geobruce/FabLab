@@ -62,6 +62,19 @@ https://github.com/ryannining/karyacnc
 
 #### Carbide create
 
+#### OpenCAMLib
+[Github](https://github.com/aewallin/opencamlib)
+[Wiki](https://github.com/aewallin/opencamlib/wiki)
+![](images/opencamlib.jpeg)
+
+#### GenericCAM
+[Site](http://genericcam.sourceforge.net/)
+![](images/genericcam.png)
+
+#### CADCAM
+[Github](https://github.com/grotius-cnc/QT_CadCam_rev0)
+![](images/cadcam.png)
+
 #### f-engrave
 Could be used to generate wooden inlays or do v-carvings.
 ![](images/f-engrave.jpg)
@@ -105,3 +118,5 @@ topografic
 
 
 https://github.com/TanayGahlot/ToolpathGenerator
+
+https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software
