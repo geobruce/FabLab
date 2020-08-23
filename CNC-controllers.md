@@ -26,6 +26,7 @@ https://cnc.js.org/
 
 ### Octoprint
 
+https://wiki.shapeoko.com/index.php/Communication_/_Control
 
 https://github.com/ryannining/karyacnc
 
