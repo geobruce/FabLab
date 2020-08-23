@@ -66,6 +66,10 @@ Free sources of information on the web on everything a maker may desire.
 
 [Go to the list](Library.md)
 
+## Fonts
+Fonts ideal for laser cutting or CNC machining.
+[Go to the list](Fonts.md)
+
 ## To be added
 - https://www.reddit.com/r/electronics/comments/ap6m45/curated_list_of_awesome_free_and_open_source/
 - https://www.reddit.com/r/coolguides/comments/9irkqd/the_best_completely_free_software_alternatives/e6nu8jg/
