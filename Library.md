@@ -7,5 +7,9 @@ Information about everything related to CNC as toolpaths and feedrate calculatio
 - [Making wooden inlays with F-engrave](http://www.corchworks.com/Blog/v-carve-inlays-and-more-with-f-engrave-1-50/)
 - https://wiki.shapeoko.com/index.php/Books
 
+note to self check this
+- https://www.youtube.com/channel/UCNhnJYp-3bxQprDoxgX_xcw
+- http://cpetry.github.io/NormalMap-Online/
 ### Free Resources
 - [Mostly free resources for almost everyone](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
+
