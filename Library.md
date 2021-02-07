@@ -17,3 +17,6 @@ note to self check this
 
 ### Editors etc.
 - [Online photoshop: Photopea](https://www.photopea.com/)
+
+## Lists:
+- [Libre software from a talk at fosdem](https://github.com/Irvise/Documents/blob/master/Cheatsheets/Libre/Packages.md), the [talk](https://fosdem.org/2021/schedule/event/libre_mech_overview/)
