@@ -12,4 +12,8 @@ note to self check this
 - http://cpetry.github.io/NormalMap-Online/
 ### Free Resources
 - [Mostly free resources for almost everyone](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone)
+- [Free vector icons for everything](https://thenounproject.com/)
+- [Free DXF Files, Coreldraw Vectors (.cdr), Designs, Silhouette, 3D Puzzle, Vector Art for CNC Router, Laser Cutting, Plasma Cutter, Wood Cutting and Engraving. 3axis.co have 19646 files for free to download or view online.](https://3axis.co/)
 
+### Editors etc.
+- [Online photoshop: Photopea](https://www.photopea.com/)
