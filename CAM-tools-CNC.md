@@ -7,6 +7,12 @@
 [jscut Github repository](https://github.com/tbfleming/jscut)
 ![](images/jscut.jpg)
 
+#### KrabzCAM
+Looks better than jsCut with more functions:
+![](images/krabzcam.png)
+[Site](https://mkrabset.github.io/krabzcam/krabzcam/index.html)
+[Github](https://github.com/mkrabset/krabzcam)
+
 #### Kiri:Moto
 Kiri:Motor is an all around tool you can use for 3D printing, CNC toolpath generation and Laser cutting & stacking.
 [Site](https://grid.space/kiri/)
