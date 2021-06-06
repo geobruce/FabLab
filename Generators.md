@@ -9,7 +9,7 @@ This site has a lot of generators for: (flex) Boxes, Trays, Drawers, Shelves, Ho
 [Github](https://github.com/florianfesti/boxes)
 ![](images/boxes.py.png)
 ### General
-#### cutting templates
+#### Cutting templates
 ![](images/cuttingtemplates.png)
 [Site](https://cuttingtemplates.com/)
 
